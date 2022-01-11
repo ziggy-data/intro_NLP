@@ -1,2 +1,1 @@
-# intro_NLP
-Nesse repositório estou começando a estudar sobre NLP
+# Curso de NLP Alura, Construindo um corretor ortográfico utilizando python
